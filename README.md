@@ -30,6 +30,7 @@ Follow these steps to get the project running locally:
 
 ### 2. Install Dependencies
 
+- `npm install`
 
 This command will install all required packages listed in `package.json`.
 
