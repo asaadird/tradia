@@ -44,7 +44,7 @@ Create a `.env` file in the root directory and add your Supabase credentials:
 
 This command starts the local development server with hot module replacement (HMR). Your application will automatically reload when you make changes to the code.
 
-The application will be available at `http://localhost:5173` (or another port if 5173 is busy).
+The application will be available at `http://localhost:8080` (or another port if 8080 is busy).
 
 ## Available Scripts
 
